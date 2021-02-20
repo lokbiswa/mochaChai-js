@@ -1,0 +1,27 @@
+{
+  "name": "mochachai",
+  "version": "1.0.0",
+  "description": "Practicing Mocha and Chai",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.3.0",
+    "express": "^4.17.1",
+    "mocha": "^8.3.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokbiswa/mochaChai-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokbiswa/mochaChai-js/issues"
+  },
+  "homepage": "https://github.com/lokbiswa/mochaChai-js#readme"
+}
